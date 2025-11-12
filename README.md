@@ -17,8 +17,9 @@ This system replaces manual gym processes with a **centralized digital platform*
 - Modular architecture for maintainability and scalability.
 
 ## 💻 Getting Started
-1. **Activate virtual environment**  
+
 ```bash
+1.Activate virtual environment 
 python -m venv venv
 venv\Scripts\activate
 
